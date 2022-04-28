@@ -1,9 +1,7 @@
 dj-database-url==0.4.2
-Django==1.11
+Django==2.2
 django-bootstrap3==8.2.2
-gunicorn==19.7.1
+psycopg2==2.7.7
 pytz==2017.2
-whitenoise==3.3.0
-psycopg2-binary
-psycopg>=2.6.1
-
+sqlparse==0.4.2
+whitenoise==4.0
